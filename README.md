@@ -13,7 +13,6 @@ This project is a URL shortener service built using Laravel (PHP) and Vue.js. It
 - [API Endpoints](#api-endpoints)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -120,10 +119,6 @@ This project is a URL shortener service built using Laravel (PHP) and Vue.js. It
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## MySQL Dump
 
 The MySQL dump of the database is provided in the file `url_shortener.sql`.
@@ -134,5 +129,5 @@ The source code for the project is included in this repository. To get started, 
 
 ---
 
-**Author:** Your Name  
-**Contact:** your.email@example.com
+**Author:** Victoria Yurchenko
+**Contact:** vika010501@gmail.com
